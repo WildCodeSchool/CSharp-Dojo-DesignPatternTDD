@@ -11,6 +11,11 @@ Quelques contraintes existent cependant:
    * la Factory pour la création d'employés (Manager et Developer)
    * le Composite pour récupérer tous les subordonnés (AbstractEmployee)
 
-Prenez une pause si vous pétez les plombs.
+## Conseils en cas d'urgence
 
-![Code rage](https://media.giphy.com/media/13ExyeCg9nSLrq/giphy.gif)
+* Si vous pétez les plombs, respirez un bon coup et relativisez: vous êtes en train d'apprendre.
+* Si vous n'arrivez pas à relativiser, prenez une pause. Prenez une pause si vous pétez les plombs.
+
+Quoiqu'il en soit, évitez d'atteindre le stade suivant:
+
+![Code rage](https://media.giphy.com/media/ZKZiW6GSx8eSA/giphy.gif)
