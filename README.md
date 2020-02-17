@@ -12,4 +12,5 @@ Quelques contraintes existent cependant:
    * le Composite pour récupérer tous les subordonnés (AbstractEmployee)
 
 Prenez une pause si vous pétez les plombs.
-![Souffrance](https://media.giphy.com/media/13ExyeCg9nSLrq/giphy.gif)
+
+![Code rage](https://media.giphy.com/media/13ExyeCg9nSLrq/giphy.gif)
